@@ -1,0 +1,8 @@
+--- CEO Master Orchestrator: Inspecionando DOM do LinkedIn ---
+[DEBUG] URL Alvo da Busca: https://www.linkedin.com/jobs/search/?keywords=Desenvolvedor+Front-end&location=Brasil&f_AL=true&f_WT=2&sortBy=DD
+[DEBUG] LinkedIn declarou "Nenhum resultado"? : false
+[DEBUG] Feed Principal de Vagas (Exato): 0 encontradas.
+[DEBUG] Fallbacks Locais Gen├®ricos (Pode incluir patrocinados/recomenda├º├Áes extra): 7 encontradas.
+
+[DEBUG] Entrando em uma vaga para verificar o bot├úo Easy Apply: https://www.linkedin.com/jobs/view/4389960380/?eBP=NON_CHARGEABLE_CHANNEL&refId=JenIO3YL1L3PqPey%2FS%2Fi9g%3D%3D&trackingId=D%2FWkT%2FAEoc0UMc8eXgPV6A%3D%3D&trk=flagship3_search_srp_jobs
+[DEBUG] Bot├Áes de Candidatura Encontrados na tela da Vaga: []

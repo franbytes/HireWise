@@ -4,7 +4,9 @@
   "description": "LinkedIn Automator",
   "main": "src/auth.ts",
   "scripts": {
-    "start": "ts-node src/auth.ts"
+    "start": "ts-node src/auth.ts",
+    "search": "ts-node src/search.ts",
+    "apply": "ts-node src/apply.ts"
   },
   "dependencies": {
     "@playwright/test": "^1.58.2",
